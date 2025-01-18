@@ -4,7 +4,7 @@ Developed a visually appealing and responsive clone of the Disney+ Hotstar landi
 ## Deployed Link
 
 - Access the live application here:  
-  [Spotify_clone](https://hotstar-anurag.netlify.app/)
+  [Disney+ Hotstar](https://hotstar-anurag.netlify.app/)
 
 ## Project Overview
 
